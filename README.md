@@ -1,6 +1,5 @@
 # GeoTime
-WPF App for plotting spacetime events
 
-Java experiment with openmap in netbeans platform
+Java experiment with openmap in netbeans platform for plotting spacetime events
 
 (WIP)
